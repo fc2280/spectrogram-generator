@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Jupyter
+.ipynb_checkpoints
+
+# Logs
+*.log
+
+# Output spectrograms
+output/
+spectrograms/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Python packaging
+build/
+dist/
+*.egg-info/
